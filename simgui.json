@@ -36,6 +36,7 @@
       "/LiveWindow/Ungrouped/Pigeon 2 [13]": "Gyro",
       "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
       "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/Pigeon 2 [0]": "Gyro",
       "/SmartDashboard/Pigeon 2 [13]": "Gyro",
       "/SmartDashboard/SendableChooser[0]": "String Chooser",
       "/SmartDashboard/navX-Sensor[1]": "Gyro"
